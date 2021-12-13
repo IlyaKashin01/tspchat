@@ -1,0 +1,16 @@
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.exe
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.dll
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\serge\source\repos\TCPChat\TCPChat\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.dll
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\serge\source\repos\TCPChat\TCPChat\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
